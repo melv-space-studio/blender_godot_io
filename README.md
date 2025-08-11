@@ -1,4 +1,4 @@
-# Blender -> Godot IO Pipeline Tools
+# <img src="https://raw.githubusercontent.com/melv-space-studio/blender_godot_io/main/pr/logo.png" height="64px" alt="logo" /> Blender -> Godot IO Pipeline Tools
 
 > [!WARNING] 
 > **Work in progress**
