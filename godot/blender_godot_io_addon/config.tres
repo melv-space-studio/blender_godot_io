@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="BlenderWorkflowConfiguration" load_steps=2 format=3 uid="uid://dtub3x24gvlja"]
+
+[ext_resource type="Script" uid="uid://db3o1bknkjrki" path="res://addons/blender_godot_io_addon/config/configuration.gd" id="1_62wky"]
+
+[resource]
+script = ExtResource("1_62wky")
+metadata/_custom_type_script = "uid://db3o1bknkjrki"
