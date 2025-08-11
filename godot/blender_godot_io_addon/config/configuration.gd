@@ -1,4 +1,5 @@
 @tool
+@icon("res://addons/blender_godot_io_addon/logo.svg")
 class_name BlenderGodotIOConfiguration extends Resource
 
 # TODO(@melvspace): 2025/05/31 detect changes and re-register extensions
