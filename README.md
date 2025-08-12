@@ -66,3 +66,14 @@ Root of Project
 > 
 > `.tscn` files are generated once during the import phase and are safe to modify manually.<br>
 > They will not be overwritten on subsequent imports.
+
+## Inspiration and References
+
+This project is heavily inspired by existing Blender-Godot workflow tools.
+
+While these projects provided a great starting point, I noticed some limitations and rough edges.
+
+My goal here is to streamline the process and adapt it to my needs, keeping the workflow as minimal as possible, free from hardcoded parts, and highly extensible.
+
+- [DOGWALK - Blender Studio](https://studio.blender.org/projects/dogwalk/)
+- [Blender To Godot 4 Pipeline Addon](https://michaeljared.itch.io/blender-to-godot-4-pipeline-addon)
